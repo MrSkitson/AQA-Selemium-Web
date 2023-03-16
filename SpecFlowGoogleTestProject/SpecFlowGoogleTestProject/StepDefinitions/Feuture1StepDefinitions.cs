@@ -20,7 +20,7 @@ namespace SpecFlowGoogleTestProject.StepDefinitions
          
         }
 
-        [When(@"Enter URL")]
+        [When(@"Entert the URL")]
         public void WhenEnterURL()
         {
             driver.Url = "https://www.google.com/";

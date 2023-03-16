@@ -10593,11 +10593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlexandraKorbalevich\\Documents\\ALEX\\Testing\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject.csproj",
+      "projectUniqueName": "C:\\Users\\AlexandraKorbalevich\\Documents\\ALEX\\Testing\\AQA-Selemium-Web\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject.csproj",
       "projectName": "SpecFlowGoogleTestProject",
-      "projectPath": "C:\\Users\\AlexandraKorbalevich\\Documents\\ALEX\\Testing\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject.csproj",
+      "projectPath": "C:\\Users\\AlexandraKorbalevich\\Documents\\ALEX\\Testing\\AQA-Selemium-Web\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject.csproj",
       "packagesPath": "C:\\Users\\AlexandraKorbalevich\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlexandraKorbalevich\\Documents\\ALEX\\Testing\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject\\obj\\",
+      "outputPath": "C:\\Users\\AlexandraKorbalevich\\Documents\\ALEX\\Testing\\AQA-Selemium-Web\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

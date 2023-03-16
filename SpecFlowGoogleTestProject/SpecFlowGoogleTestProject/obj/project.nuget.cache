@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b7yw/72tkVW9atJ4eSWvAZJxi4hryxgwJvMMlDiTVfIlQmwqvpjrnSG2dJAEe0EgByrffUjx3wNZaOQQybq+sg==",
+  "dgSpecHash": "A8frbtAkjvmL61/XG+BF0AKQ+Yf/QDaFJQmfw2tpNDGzzyt5hOps80JgR5ytAqT32QVVDU6CMGmTdXjAMkksvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AlexandraKorbalevich\\Documents\\ALEX\\Testing\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject.csproj",
+  "projectFilePath": "C:\\Users\\AlexandraKorbalevich\\Documents\\ALEX\\Testing\\AQA-Selemium-Web\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject\\SpecFlowGoogleTestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AlexandraKorbalevich\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\AlexandraKorbalevich\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
